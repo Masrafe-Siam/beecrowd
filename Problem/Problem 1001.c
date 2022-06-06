@@ -2,6 +2,7 @@
 Print X as shown below. Print endline after the result otherwise you will get “Presentation Error”.*/
 
 
+
 #include<stdio.h>
 int main()
 {
